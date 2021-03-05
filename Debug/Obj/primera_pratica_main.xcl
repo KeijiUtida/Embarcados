@@ -1,4 +1,4 @@
-"D:\WorkSpace\Embarcados\Projects\EK-TM4C1294_IAR8\Projects\primeira_pratica\primera_pratica_main.c"
+"D:\WorkSpace\Embarcados\Projects\EK-TM4C1294_IAR8\Projects\primeira_pratica\src\primera_pratica_main.c"
 -std=c11
 -ferror-limit=0
 -fbracket-depth=512
@@ -9,7 +9,7 @@ D:\WorkSpace\Embarcados\Projects\EK-TM4C1294_IAR8\Projects\primeira_pratica\Debu
 -o
 primera_pratica_main.pbi
 -I
-D:\WorkSpace\Embarcados\Projects\EK-TM4C1294_IAR8\Projects\primeira_pratica
+D:\WorkSpace\Embarcados\Projects\EK-TM4C1294_IAR8\Projects\primeira_pratica\src
 -I
 D:\WorkSpace\Embarcados\Projects\EK-TM4C1294_IAR8\Projects\primeira_pratica\..\..\TivaWare_C_Series-2.1.4.178\
 -I

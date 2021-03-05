@@ -12360,7 +12360,7 @@
     "location": {
       "column": "9",
       "line": "10",
-      "path": "D:\\WorkSpace\\Embarcados\\Projects\\EK-TM4C1294_IAR8\\Projects\\primeira_pratica\\primera_pratica_main.c"
+      "path": "D:\\WorkSpace\\Embarcados\\Projects\\EK-TM4C1294_IAR8\\Projects\\primeira_pratica\\src\\primera_pratica_main.c"
     },
     "name": "LED_D4",
     "origin": "project_file",
@@ -12374,7 +12374,7 @@
     "location": {
       "column": "6",
       "line": "12",
-      "path": "D:\\WorkSpace\\Embarcados\\Projects\\EK-TM4C1294_IAR8\\Projects\\primeira_pratica\\primera_pratica_main.c"
+      "path": "D:\\WorkSpace\\Embarcados\\Projects\\EK-TM4C1294_IAR8\\Projects\\primeira_pratica\\src\\primera_pratica_main.c"
     },
     "name": "main",
     "origin": "project_file",
@@ -12388,7 +12388,7 @@
     "location": {
       "column": "14",
       "line": "24",
-      "path": "D:\\WorkSpace\\Embarcados\\Projects\\EK-TM4C1294_IAR8\\Projects\\primeira_pratica\\primera_pratica_main.c"
+      "path": "D:\\WorkSpace\\Embarcados\\Projects\\EK-TM4C1294_IAR8\\Projects\\primeira_pratica\\src\\primera_pratica_main.c"
     },
     "name": "i",
     "origin": "project_file",

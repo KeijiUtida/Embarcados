@@ -49,7 +49,7 @@
         <MultiCoreRunAll>1</MultiCoreRunAll>
     </Simulator>
     <DebugChecksum>
-        <Checksum>2582060661</Checksum>
+        <Checksum>2046437603</Checksum>
     </DebugChecksum>
     <LMIFTDIDriver>
         <LMIFTDIserialNo>0F00AEED</LMIFTDIserialNo>
@@ -87,7 +87,8 @@
         <Count>0</Count>
     </Breakpoints>
     <Aliases>
-        <Count>0</Count>
+        <A0>_ "D:\WorkSpace\Embarcados\Projects\EK-TM4C1294_IAR8\Projects\primeira_pratica\primera_pratica_main.c" ""</A0>
+        <Count>1</Count>
         <SuppressDialog>0</SuppressDialog>
     </Aliases>
 </settings>
