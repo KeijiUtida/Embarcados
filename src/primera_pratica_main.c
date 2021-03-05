@@ -26,5 +26,6 @@ void main(void)
     }
     LED_D4 ^= GPIO_PIN_0; // Troca estado do LED D4
     GPIOPinWrite(GPIO_PORTF_BASE, GPIO_PIN_0, LED_D4); // Acende ou apaga LED D4
+
   }
 }
